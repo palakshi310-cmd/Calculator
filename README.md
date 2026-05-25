@@ -7,5 +7,5 @@
   - **Robust Error & Exception Handling:** Implemented logical constraints to handle edge cases gracefully, such as preventing division-by-zero errors, invalid decimal inputs, and syntax mismatches.
   - **Event-Driven UI:** Designed an intuitive, responsive user interface utilizing grid layouts and event listeners to ensure real-time input capturing and smooth user interaction.
   - **State Memory Tracking:** Integrated memory functions (Clear, Clear Entry, and Backspace) to allow users to modify or reset operations on the fly.
-- 🔗 **[View Repository](Link_Here)** | 📸 **[View Screenshot](./images/calculator.png)**
+  
 -
