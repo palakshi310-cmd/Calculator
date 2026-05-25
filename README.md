@@ -8,4 +8,4 @@
   - **Event-Driven UI:** Designed an intuitive, responsive user interface utilizing grid layouts and event listeners to ensure real-time input capturing and smooth user interaction.
   - **State Memory Tracking:** Integrated memory functions (Clear, Clear Entry, and Backspace) to allow users to modify or reset operations on the fly.
   
--
+
